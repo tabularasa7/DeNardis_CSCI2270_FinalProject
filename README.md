@@ -1,5 +1,9 @@
 # DeNardis_CSCI2270_FinalProject
 
+ATTENTION!!!: If you are here to evaluate the final project, please go to https://github.com/mdenardis/DeNardis_CSCI2270_FinalProject
+
+This fork does not have the necessary files to run the game.
+
 Project Summary:
 We are creating the game Hangman as our final project.  When the game begins it will read in a text file 
 of words and enqueue the words: head, body, right arm, left arm, right leg, left leg in a separate function. 
